@@ -1,6 +1,10 @@
 # WeatherApp
 
+<a href="#">
+<img align="right" width="100px" src="https://github.com/ZedUnknown/Weather-App/blob/main/Resources/assets/WeatherTypes/sunny.png" alt="Image"/>
+</a>
 WeatherApp is a Python-based application that provides users with real-time weather information for a given location. It utilizes the OpenWeatherMap API to fetch accurate weather data and presents it in a user-friendly manner.
+
 
 ## Features
 
