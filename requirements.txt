@@ -1,0 +1,6 @@
+customtkinter
+pytz
+pillow
+requests
+python-dotenv
+geopy
