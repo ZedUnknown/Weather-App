@@ -55,7 +55,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - The WeatherApp uses the [OpenWeatherMap API](https://openweathermap.org/) to retrieve weather data.
-- It incorporates various Python libraries such as `customtkinter`, `os`, `datetime`, `pytz`, `dotenv`, `geopy`, and `PIL`.
+- It incorporates various Python libraries such as `customtkinter`,`tkintermapview`, `os`, `datetime`, `pytz`, `dotenv`, `geopy`, and `PIL`.
 
 ## Feedback and Suggestions
 
