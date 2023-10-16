@@ -43,7 +43,7 @@ This command will automatically install the necessary dependencies.
 ```
 python WeatherApp.py
 ```
-- #### [In V2.0](https://github.com/ZedUnknown/Weather-App/releases/tag/v2.0)
+- #### [In v2.0](https://github.com/ZedUnknown/Weather-App/releases/tag/v2.0)
 ```
 python "Weather App.py"
 ```
