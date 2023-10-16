@@ -34,7 +34,7 @@ This command will automatically install the necessary dependencies.
 
 1. Create an account on [OpenWeatherMap](https://openweathermap.org/) and generate an API key.
 2. Open the `API.env` file and add the following line, replacing `API_KEY_HERE` with the API key you obtained:
-```API="API_KEY_HERE"```
+```API="YOUR_API_KEY_HERE"```
 
 
 ## Usage
@@ -42,6 +42,10 @@ This command will automatically install the necessary dependencies.
 1. Run the main script using the following command:
 ```
 python WeatherApp.py
+```
+- #### [In V2.0](https://github.com/ZedUnknown/Weather-App/releases/tag/v2.0)
+```
+python "Weather App.py"
 ```
 2. The application window will open, displaying a search bar.
 3. Enter the name of a city or town in the search bar and press Enter or click the search button.
